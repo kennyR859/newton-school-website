@@ -1,0 +1,36 @@
+{
+  "header": {
+    "overline": "Contact Us",
+    "title": "연락하기",
+    "subtitle": "여러분의 연락을 기다립니다. 무료 상담을 위해 연락주세요."
+  },
+  "form": {
+    "title": "메시지 보내기",
+    "name": "이름",
+    "namePlaceholder": "이름을 입력하세요",
+    "email": "이메일",
+    "emailPlaceholder": "이메일을 입력하세요",
+    "phone": "전화번호",
+    "phonePlaceholder": "전화번호를 입력하세요",
+    "subject": "제목",
+    "subjectPlaceholder": "무엇에 대해 상담하고 싶으신가요?",
+    "message": "메시지",
+    "messagePlaceholder": "목표에 대해 알려주세요...",
+    "submit": "메시지 보내기",
+    "sending": "전송 중...",
+    "success": "감사합니다! 곧 연락드리겠습니다.",
+    "error": "오류가 발생했습니다. 다시 시도해주세요."
+  },
+  "info": {
+    "title": "연락처 정보",
+    "address": "주소",
+    "phone": "전화",
+    "email": "이메일",
+    "hours": "운영 시간"
+  },
+  "cta": {
+    "title": "시작할 준비 되셨나요?",
+    "subtitle": "자녀의 교육 목표에 대해 무료 상담을 예약하세요.",
+    "call": "지금 전화하기"
+  }
+}

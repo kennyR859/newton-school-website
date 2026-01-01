@@ -1,0 +1,113 @@
+{
+  "header": {
+    "overline": "Our Curriculum",
+    "title": "Comprehensive Learning Programs",
+    "subtitle": "Tailored education for every level and learning style."
+  },
+  "tabs": {
+    "math": "Math",
+    "science": "Science",
+    "english": "English",
+    "testPrep": "Test Prep"
+  },
+  "math": {
+    "title": "Mathematics",
+    "description": "Build strong foundations and develop advanced problem-solving skills through our comprehensive math program.",
+    "features": [
+      "Conceptual understanding over memorization",
+      "Real-world problem applications",
+      "Competition math preparation",
+      "College-level math readiness"
+    ],
+    "levels": {
+      "elementary": {
+        "title": "Elementary School",
+        "courses": ["Pre-Algebra", "Basic Geometry", "Problem Solving Fundamentals"]
+      },
+      "middle": {
+        "title": "Middle School",
+        "courses": ["Algebra I", "Geometry", "Pre-Algebra Advanced"]
+      },
+      "high": {
+        "title": "High School",
+        "courses": ["Algebra II", "Pre-Calculus", "Calculus AB/BC", "AP Statistics"]
+      }
+    }
+  },
+  "science": {
+    "title": "Science",
+    "description": "Explore the wonders of science through hands-on experiments and inquiry-based learning.",
+    "features": [
+      "Laboratory experiments",
+      "Scientific method mastery",
+      "Research project guidance",
+      "AP Science preparation"
+    ],
+    "levels": {
+      "elementary": {
+        "title": "Elementary School",
+        "courses": ["Life Science", "Physical Science", "Earth Science Basics"]
+      },
+      "middle": {
+        "title": "Middle School",
+        "courses": ["Biology Foundations", "Chemistry Intro", "Physics Concepts"]
+      },
+      "high": {
+        "title": "High School",
+        "courses": ["Biology", "Chemistry", "Physics", "AP Sciences"]
+      }
+    }
+  },
+  "english": {
+    "title": "English",
+    "description": "Develop critical reading skills and powerful writing abilities for academic success.",
+    "features": [
+      "Critical reading analysis",
+      "Essay writing mastery",
+      "Literature appreciation",
+      "AP English preparation"
+    ],
+    "levels": {
+      "elementary": {
+        "title": "Elementary School",
+        "courses": ["Reading Comprehension", "Creative Writing", "Vocabulary Building"]
+      },
+      "middle": {
+        "title": "Middle School",
+        "courses": ["Literary Analysis", "Expository Writing", "Grammar Mastery"]
+      },
+      "high": {
+        "title": "High School",
+        "courses": ["AP English Language", "AP English Literature", "SAT/ACT Writing"]
+      }
+    }
+  },
+  "testPrep": {
+    "title": "Test Preparation",
+    "description": "Comprehensive preparation for standardized tests with proven strategies and practice.",
+    "features": [
+      "Personalized study plans",
+      "Practice test analysis",
+      "Test-taking strategies",
+      "Score improvement guarantee"
+    ],
+    "levels": {
+      "foundation": {
+        "title": "Foundation",
+        "courses": ["Diagnostic Assessment", "Core Skill Building", "Study Skills"]
+      },
+      "strategy": {
+        "title": "Strategy",
+        "courses": ["Test Strategies", "Time Management", "Practice Tests"]
+      },
+      "final": {
+        "title": "Final Prep",
+        "courses": ["Full Practice Exams", "Score Analysis", "Last-Minute Review"]
+      }
+    }
+  },
+  "cta": {
+    "title": "Not sure where to start?",
+    "subtitle": "Take our free level test to find the perfect program for your child."
+  }
+}

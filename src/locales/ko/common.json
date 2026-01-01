@@ -1,0 +1,42 @@
+{
+  "nav": {
+    "home": "홈",
+    "about": "소개",
+    "curriculum": "커리큘럼",
+    "facilities": "시설",
+    "successStories": "성공 사례",
+    "contact": "문의",
+    "faq": "FAQ",
+    "policy": "정책",
+    "inquireNow": "상담 신청"
+  },
+  "footer": {
+    "quickLinks": "빠른 링크",
+    "contactUs": "연락처",
+    "hours": "운영 시간",
+    "rights": "모든 권리 보유.",
+    "privacyPolicy": "개인정보처리방침",
+    "termsOfService": "이용약관",
+    "weekdays": "월 - 금: 오후 3:00 - 오후 9:00",
+    "saturday": "토요일: 오전 10:00 - 오후 6:00",
+    "sunday": "일요일: 휴무"
+  },
+  "theme": {
+    "light": "라이트",
+    "dark": "다크",
+    "system": "시스템"
+  },
+  "language": {
+    "en": "English",
+    "ko": "한국어"
+  },
+  "cta": {
+    "bookConsultation": "상담 예약",
+    "contactUs": "문의하기",
+    "learnMore": "자세히 보기",
+    "viewProgram": "프로그램 보기",
+    "applyNow": "지원하기",
+    "scheduleTour": "투어 예약",
+    "bookLevelTest": "레벨 테스트 예약"
+  }
+}

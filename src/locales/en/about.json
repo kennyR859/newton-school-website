@@ -1,0 +1,55 @@
+{
+  "header": {
+    "overline": "About Us",
+    "title": "Our Philosophy",
+    "subtitle": "We're not just tutors – we're your child's educational partners for success."
+  },
+  "principal": {
+    "name": "Kenny Kim",
+    "role": "Principal / Head Teacher",
+    "education": "Columbia University M.A. Education",
+    "experience": "15+ Years Teaching Experience",
+    "specialty": "SAT/ACT Math Specialist",
+    "quote": "When students develop the power to think for themselves, grades naturally follow.",
+    "bio": [
+      "With over 15 years of experience in education, I've seen firsthand how understanding-based learning transforms students.",
+      "My journey began at Columbia University, where I studied the science of learning and developed my philosophy of education.",
+      "At Newton School, we don't just prepare students for tests – we prepare them for life."
+    ],
+    "values": [
+      "Principle-focused learning over memorization",
+      "Personalized attention for every student",
+      "Metacognitive skill development",
+      "Self-directed learning cultivation"
+    ]
+  },
+  "timeline": {
+    "title": "Our Journey",
+    "milestones": [
+      {
+        "year": "2010",
+        "title": "Foundation",
+        "description": "Newton School was established with a vision to transform education in Fort Lee."
+      },
+      {
+        "year": "2015",
+        "title": "Expansion",
+        "description": "Grew to serve over 200 students with expanded curriculum offerings."
+      },
+      {
+        "year": "2019",
+        "title": "Curriculum Innovation",
+        "description": "Launched the Deep Think methodology for enhanced learning outcomes."
+      },
+      {
+        "year": "2023",
+        "title": "Excellence Award",
+        "description": "Recognized for outstanding educational achievement in the region."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Join Our Community",
+    "subtitle": "Become part of the Newton School family today."
+  }
+}

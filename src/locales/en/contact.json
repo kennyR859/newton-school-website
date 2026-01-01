@@ -1,0 +1,36 @@
+{
+  "header": {
+    "overline": "Contact Us",
+    "title": "Get in Touch",
+    "subtitle": "We'd love to hear from you. Reach out for a free consultation."
+  },
+  "form": {
+    "title": "Send us a Message",
+    "name": "Name",
+    "namePlaceholder": "Enter your name",
+    "email": "Email",
+    "emailPlaceholder": "Enter your email",
+    "phone": "Phone",
+    "phonePlaceholder": "Enter your phone number",
+    "subject": "Subject",
+    "subjectPlaceholder": "What would you like to discuss?",
+    "message": "Message",
+    "messagePlaceholder": "Tell us about your goals...",
+    "submit": "Send Message",
+    "sending": "Sending...",
+    "success": "Thank you! We'll get back to you soon.",
+    "error": "Something went wrong. Please try again."
+  },
+  "info": {
+    "title": "Contact Information",
+    "address": "Address",
+    "phone": "Phone",
+    "email": "Email",
+    "hours": "Hours"
+  },
+  "cta": {
+    "title": "Ready to Start?",
+    "subtitle": "Schedule a free consultation to discuss your child's educational needs.",
+    "call": "Call Us Now"
+  }
+}

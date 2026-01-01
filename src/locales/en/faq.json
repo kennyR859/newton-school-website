@@ -1,0 +1,73 @@
+{
+  "header": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Find answers to common questions about our programs and policies."
+  },
+  "categories": {
+    "enrollment": "Enrollment",
+    "classes": "Classes",
+    "curriculum": "Curriculum",
+    "payment": "Payment"
+  },
+  "enrollment": {
+    "howToEnroll": {
+      "question": "How do I enroll my child at Newton School?",
+      "answer": "You can enroll by scheduling a consultation through our contact page or by calling us directly. We'll arrange a level assessment test and discuss the best program options for your child."
+    },
+    "ageRequirement": {
+      "question": "What age groups do you accept?",
+      "answer": "We accept students from elementary school through high school. Our programs are tailored to different age groups and academic levels."
+    },
+    "trialClass": {
+      "question": "Do you offer trial classes?",
+      "answer": "Yes, we offer a complimentary trial class so students can experience our teaching style before committing. Contact us to schedule your trial session."
+    }
+  },
+  "classes": {
+    "classSize": {
+      "question": "What is the class size?",
+      "answer": "We maintain small class sizes with a maximum of 8 students per class to ensure personalized attention and effective learning."
+    },
+    "classSchedule": {
+      "question": "What are the class schedules?",
+      "answer": "Classes are held Monday through Friday from 3PM to 9PM and Saturdays from 10AM to 6PM. Specific times vary by program and level."
+    },
+    "makeupClass": {
+      "question": "Can I make up a missed class?",
+      "answer": "Yes, makeup classes are available if you notify us at least 24 hours in advance. Please contact our office to reschedule."
+    }
+  },
+  "curriculum": {
+    "subjects": {
+      "question": "What subjects do you teach?",
+      "answer": "We offer comprehensive programs in Mathematics, Science (Biology, Chemistry, Physics), English, and Test Prep (SAT, ACT, AP exams)."
+    },
+    "levelTest": {
+      "question": "Is there a placement test?",
+      "answer": "Yes, all new students take a diagnostic assessment to determine their current level and learning needs. This helps us place them in the most appropriate class."
+    },
+    "homework": {
+      "question": "How much homework is assigned?",
+      "answer": "Homework is assigned after each class to reinforce learning. The amount varies by subject and level, typically taking 30-60 minutes per subject."
+    }
+  },
+  "payment": {
+    "tuition": {
+      "question": "What is the tuition fee?",
+      "answer": "Tuition varies by program and number of subjects. Please contact us for detailed pricing information and current promotions."
+    },
+    "paymentMethods": {
+      "question": "What payment methods do you accept?",
+      "answer": "We accept cash, check, and all major credit cards. Monthly payment plans are available for your convenience."
+    },
+    "refund": {
+      "question": "What is the refund policy?",
+      "answer": "Refunds are available within the first week of enrollment. After the first week, tuition is non-refundable but can be applied to future terms."
+    }
+  },
+  "stillHaveQuestions": {
+    "title": "Still Have Questions?",
+    "subtitle": "Our team is here to help. Contact us and we'll get back to you within 24 hours.",
+    "button": "Contact Us"
+  }
+}

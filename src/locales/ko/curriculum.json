@@ -1,0 +1,113 @@
+{
+  "header": {
+    "overline": "Our Curriculum",
+    "title": "종합 학습 프로그램",
+    "subtitle": "모든 수준과 학습 스타일에 맞춘 맞춤형 교육."
+  },
+  "tabs": {
+    "math": "수학",
+    "science": "과학",
+    "english": "영어",
+    "testPrep": "시험 준비"
+  },
+  "math": {
+    "title": "Mathematics",
+    "description": "종합적인 수학 프로그램을 통해 탄탄한 기초를 다지고 고급 문제 해결 능력을 개발합니다.",
+    "features": [
+      "암기보다 개념 이해",
+      "실생활 문제 적용",
+      "경시대회 수학 준비",
+      "대학 수준 수학 준비"
+    ],
+    "levels": {
+      "elementary": {
+        "title": "초등학교",
+        "courses": ["Pre-Algebra", "기초 기하학", "문제 해결 기초"]
+      },
+      "middle": {
+        "title": "중학교",
+        "courses": ["Algebra I", "Geometry", "Pre-Algebra 심화"]
+      },
+      "high": {
+        "title": "고등학교",
+        "courses": ["Algebra II", "Pre-Calculus", "Calculus AB/BC", "AP Statistics"]
+      }
+    }
+  },
+  "science": {
+    "title": "Science",
+    "description": "실험과 탐구 기반 학습을 통해 과학의 경이로움을 탐험합니다.",
+    "features": [
+      "실험실 실험",
+      "과학적 방법론 습득",
+      "연구 프로젝트 지도",
+      "AP 과학 준비"
+    ],
+    "levels": {
+      "elementary": {
+        "title": "초등학교",
+        "courses": ["생명 과학", "물리 과학", "지구 과학 기초"]
+      },
+      "middle": {
+        "title": "중학교",
+        "courses": ["생물 기초", "화학 입문", "물리 개념"]
+      },
+      "high": {
+        "title": "고등학교",
+        "courses": ["Biology", "Chemistry", "Physics", "AP Sciences"]
+      }
+    }
+  },
+  "english": {
+    "title": "English",
+    "description": "학업 성공을 위한 비판적 독해 능력과 강력한 작문 능력을 개발합니다.",
+    "features": [
+      "비판적 독해 분석",
+      "에세이 작성 마스터",
+      "문학 감상",
+      "AP 영어 준비"
+    ],
+    "levels": {
+      "elementary": {
+        "title": "초등학교",
+        "courses": ["독해력", "창의적 글쓰기", "어휘력 향상"]
+      },
+      "middle": {
+        "title": "중학교",
+        "courses": ["문학 분석", "설명문 작성", "문법 마스터"]
+      },
+      "high": {
+        "title": "고등학교",
+        "courses": ["AP English Language", "AP English Literature", "SAT/ACT Writing"]
+      }
+    }
+  },
+  "testPrep": {
+    "title": "시험 준비",
+    "description": "검증된 전략과 연습을 통한 표준화 시험의 종합적인 준비.",
+    "features": [
+      "맞춤형 학습 계획",
+      "모의 시험 분석",
+      "시험 전략",
+      "점수 향상 보장"
+    ],
+    "levels": {
+      "foundation": {
+        "title": "기초",
+        "courses": ["진단 평가", "핵심 역량 구축", "학습 기술"]
+      },
+      "strategy": {
+        "title": "전략",
+        "courses": ["시험 전략", "시간 관리", "모의 시험"]
+      },
+      "final": {
+        "title": "최종 준비",
+        "courses": ["전체 모의고사", "점수 분석", "막판 복습"]
+      }
+    }
+  },
+  "cta": {
+    "title": "어디서 시작해야 할지 모르겠나요?",
+    "subtitle": "무료 레벨 테스트로 자녀에게 딱 맞는 프로그램을 찾아보세요."
+  }
+}

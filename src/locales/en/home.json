@@ -1,0 +1,72 @@
+{
+  "hero": {
+    "overline": "Premium Education in Fort Lee",
+    "title": "Understanding Principles Makes Everything Easy",
+    "subtitle": "Newton School helps children develop real skills through deep understanding, not mere memorization."
+  },
+  "values": {
+    "understanding": {
+      "title": "Deep Understanding",
+      "description": "We prioritize understanding principles over memorizing formulas, developing both application skills and critical thinking."
+    },
+    "care": {
+      "title": "Personalized Care",
+      "description": "Through small group classes, we identify each student's personality and level to provide customized guidance."
+    },
+    "results": {
+      "title": "Proven Results",
+      "description": "Experience Newton School's education system proven by top university admissions and grade improvements."
+    }
+  },
+  "about": {
+    "overline": "About Us",
+    "title": "Education is More Than Just Grades",
+    "quote": "\"When students develop the power to think for themselves, grades naturally follow.\"",
+    "description": "Newton School is not just a place that teaches test-taking skills. We help students discover the joy of learning, develop problem-solving abilities, and grow into future leaders."
+  },
+  "stats": {
+    "students": "Students Taught",
+    "satisfaction": "Satisfaction Rate",
+    "universities": "University Acceptances",
+    "attention": "Personalized Attention"
+  },
+  "curriculum": {
+    "overline": "Our Curriculum",
+    "title": "Tailored Learning Programs",
+    "subtitle": "We provide customized curricula from basic to advanced, tailored to each grade level.",
+    "math": {
+      "title": "Mathematics",
+      "description": "Mathematics that develops logical thinking"
+    },
+    "science": {
+      "title": "Science",
+      "description": "Science that connects curiosity to exploration"
+    },
+    "english": {
+      "title": "English",
+      "description": "English that builds critical reading and expression skills"
+    }
+  },
+  "testimonials": {
+    "overline": "Testimonials",
+    "title": "What Parents Say",
+    "reviews": [
+      {
+        "text": "Newton School changed my daughter's perspective on math. She loves learning now.",
+        "author": "Jane D."
+      },
+      {
+        "text": "The teachers are incredibly dedicated and the curriculum is top-notch.",
+        "author": "Michael R."
+      },
+      {
+        "text": "Best investment for my son's education. He got into his dream college!",
+        "author": "Sarah L."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Start?",
+    "subtitle": "Design a roadmap tailored to your child through a free level test and consultation."
+  }
+}

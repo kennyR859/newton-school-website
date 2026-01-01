@@ -1,0 +1,61 @@
+{
+  "header": {
+    "title": "Policies & Terms",
+    "subtitle": "Please review our policies to understand how we operate and protect your information."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "content": [
+      "Newton School is committed to protecting the privacy of our students and families. We collect only the information necessary to provide our educational services.",
+      "Personal information collected includes names, contact details, and academic records. This information is used solely for educational purposes and communication.",
+      "We do not sell, trade, or share personal information with third parties except as required by law or to provide our services.",
+      "Parents and guardians have the right to access, correct, or delete their child's information upon request."
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "content": [
+      "By enrolling at Newton School, you agree to abide by our terms of service and policies.",
+      "Students are expected to attend classes regularly, complete assignments, and maintain respectful behavior.",
+      "Newton School reserves the right to modify these terms at any time. Changes will be communicated to enrolled families.",
+      "Continued enrollment after policy changes constitutes acceptance of the updated terms."
+    ]
+  },
+  "conduct": {
+    "title": "Code of Conduct",
+    "content": [
+      "All students are expected to treat teachers, staff, and fellow students with respect and courtesy.",
+      "Bullying, harassment, or discrimination of any kind is strictly prohibited and may result in dismissal.",
+      "Students should come prepared for class with necessary materials and a positive attitude toward learning.",
+      "Electronic devices should be used only for educational purposes during class time."
+    ]
+  },
+  "payment": {
+    "title": "Payment Policy",
+    "content": [
+      "Tuition payments are due by the first of each month. Late payments may incur a fee.",
+      "A deposit is required upon enrollment to secure your child's spot in the program.",
+      "Refunds are available within the first week of enrollment. After this period, tuition is non-refundable.",
+      "Payment plans are available upon request. Please discuss options with our administrative staff."
+    ]
+  },
+  "attendance": {
+    "title": "Attendance Policy",
+    "content": [
+      "Regular attendance is essential for academic success. Please notify us of any absences in advance.",
+      "Makeup classes are available if notice is given at least 24 hours before the scheduled class.",
+      "Chronic absenteeism may affect a student's progress and eligibility for certain programs.",
+      "Tardiness disrupts the learning environment. Students should arrive at least 5 minutes before class."
+    ]
+  },
+  "safety": {
+    "title": "Safety Policy",
+    "content": [
+      "The safety of our students is our top priority. Our facility is equipped with 24-hour CCTV monitoring.",
+      "Only authorized guardians listed in student records may pick up students. ID verification may be required.",
+      "In case of emergency, we will contact guardians immediately using the information on file.",
+      "All staff members have completed background checks and safety training."
+    ]
+  },
+  "lastUpdated": "Last Updated"
+}

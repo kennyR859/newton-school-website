@@ -1,0 +1,42 @@
+{
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "curriculum": "Curriculum",
+    "facilities": "Facilities",
+    "successStories": "Success Stories",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "policy": "Policy",
+    "inquireNow": "Inquire Now"
+  },
+  "footer": {
+    "quickLinks": "Quick Links",
+    "contactUs": "Contact Us",
+    "hours": "Hours",
+    "rights": "All rights reserved.",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "weekdays": "Mon - Fri: 3:00 PM - 9:00 PM",
+    "saturday": "Saturday: 10:00 AM - 6:00 PM",
+    "sunday": "Sunday: Closed"
+  },
+  "theme": {
+    "light": "Light",
+    "dark": "Dark",
+    "system": "System"
+  },
+  "language": {
+    "en": "English",
+    "ko": "한국어"
+  },
+  "cta": {
+    "bookConsultation": "Book a Consultation",
+    "contactUs": "Contact Us",
+    "learnMore": "Learn More",
+    "viewProgram": "View Program",
+    "applyNow": "Apply Now",
+    "scheduleTour": "Schedule a Tour",
+    "bookLevelTest": "Book Level Test"
+  }
+}
