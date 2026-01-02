@@ -75,7 +75,7 @@ export function Navbar() {
               key={link.key}
               to={link.href}
               className={cn(
-                'text-sm font-medium transition-colors hover:text-[#FF6B9D]',
+                'text-base font-medium transition-colors hover:text-[#FF6B9D]',
                 isActive(link.href)
                   ? 'text-[#FF6B9D]'
                   : isScrolled
