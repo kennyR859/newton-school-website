@@ -58,7 +58,7 @@ export function Navbar() {
           <span
             className={cn(
               'text-2xl font-bold font-heading transition-colors',
-              isScrolled ? 'text-foreground' : 'text-white'
+              isScrolled ? 'text-gray-800 dark:text-white' : 'text-white'
             )}
           >
             Newton
@@ -75,12 +75,14 @@ export function Navbar() {
               key={link.key}
               to={link.href}
               className={cn(
-                'text-base font-medium transition-colors hover:text-[#FF6B9D]',
+                'relative text-lg font-medium transition-colors hover:text-[#FF6B9D] pb-1',
+                'after:absolute after:bottom-0 after:left-0 after:h-[2px] after:transition-all after:duration-300',
                 isActive(link.href)
-                  ? 'text-[#FF6B9D]'
-                  : isScrolled
-                  ? 'text-foreground'
-                  : 'text-white'
+                  ? 'text-[#FF6B9D] after:w-full after:bg-gradient-to-r after:from-[#FF6B9D] after:to-[#C084FC]'
+                  : cn(
+                      'after:w-0 hover:after:w-full after:bg-gradient-to-r after:from-[#FF6B9D] after:to-[#C084FC]',
+                      isScrolled ? 'text-gray-700 dark:text-gray-200' : 'text-white'
+                    )
               )}
             >
               {t(`nav.${link.key}`)}
@@ -127,10 +129,11 @@ export function Navbar() {
                     to={link.href}
                     onClick={() => setIsOpen(false)}
                     className={cn(
-                      'text-lg font-medium py-2 transition-colors hover:text-[#FF6B9D]',
+                      'relative text-lg font-medium py-2 transition-colors hover:text-[#FF6B9D] w-fit',
+                      'after:absolute after:bottom-1 after:left-0 after:h-[2px] after:transition-all after:duration-300',
                       isActive(link.href)
-                        ? 'text-[#FF6B9D]'
-                        : 'text-foreground'
+                        ? 'text-[#FF6B9D] after:w-full after:bg-gradient-to-r after:from-[#FF6B9D] after:to-[#C084FC]'
+                        : 'text-foreground after:w-0'
                     )}
                   >
                     {t(`nav.${link.key}`)}
@@ -140,8 +143,11 @@ export function Navbar() {
                   to="/faq"
                   onClick={() => setIsOpen(false)}
                   className={cn(
-                    'text-lg font-medium py-2 transition-colors hover:text-[#FF6B9D]',
-                    isActive('/faq') ? 'text-[#FF6B9D]' : 'text-foreground'
+                    'relative text-lg font-medium py-2 transition-colors hover:text-[#FF6B9D] w-fit',
+                    'after:absolute after:bottom-1 after:left-0 after:h-[2px] after:transition-all after:duration-300',
+                    isActive('/faq')
+                      ? 'text-[#FF6B9D] after:w-full after:bg-gradient-to-r after:from-[#FF6B9D] after:to-[#C084FC]'
+                      : 'text-foreground after:w-0'
                   )}
                 >
                   {t('nav.faq')}
