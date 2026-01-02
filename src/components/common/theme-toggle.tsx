@@ -23,13 +23,14 @@ export function ThemeToggle() {
       )}
       aria-label={isDark ? 'Switch to light mode' : 'Switch to dark mode'}
     >
-      <Sun
+      {/* Show Moon in light mode (click to go dark), Sun in dark mode (click to go light) */}
+      <Moon
         className={cn(
           'h-5 w-5 absolute transition-all duration-300',
           isDark ? 'rotate-90 scale-0 opacity-0' : 'rotate-0 scale-100 opacity-100'
         )}
       />
-      <Moon
+      <Sun
         className={cn(
           'h-5 w-5 absolute transition-all duration-300',
           isDark ? 'rotate-0 scale-100 opacity-100' : '-rotate-90 scale-0 opacity-0'

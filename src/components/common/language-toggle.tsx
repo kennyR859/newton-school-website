@@ -53,10 +53,11 @@ export function LanguageToggle() {
         )}
         aria-label={isKorean ? 'Switch to English' : '한국어로 전환'}
       >
+        {/* Show KRFlag in English mode (click to go Korean), USFlag in Korean mode (click to go English) */}
         <span
           className={cn(
             'absolute inset-0 transition-all duration-300',
-            isKorean ? 'rotate-0 scale-100 opacity-100' : 'rotate-90 scale-0 opacity-0'
+            isKorean ? 'rotate-90 scale-0 opacity-0' : 'rotate-0 scale-100 opacity-100'
           )}
         >
           <KRFlag />
@@ -64,7 +65,7 @@ export function LanguageToggle() {
         <span
           className={cn(
             'absolute inset-0 transition-all duration-300',
-            isKorean ? '-rotate-90 scale-0 opacity-0' : 'rotate-0 scale-100 opacity-100'
+            isKorean ? 'rotate-0 scale-100 opacity-100' : '-rotate-90 scale-0 opacity-0'
           )}
         >
           <USFlag />
